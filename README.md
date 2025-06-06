@@ -12,7 +12,7 @@
 ## Installation
 
 ```bash
-pip install git+https://github.com/YOUR_GITHUB/karaoke-shared.git
+pip install git+https://github.com/svidal-nlive/karaoke-shared.git
 # Or, if/when published:
 pip install karaoke-shared
 ````
