@@ -1,0 +1,5 @@
+pytest
+flake8
+black
+mypy
+# Optionally: coverage, isort
